@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Júnior`**
 
- Olá, meu nome é Nathan, tenho 21 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou em constante desenvolvimento na área de tecnologia, com foco em aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e inovadoras. Busco sempre alinhar aprendizado prático com uma visão estratégica voltada para resultados.
+ 21 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou em constante desenvolvimento na área de tecnologia, com foco em aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e inovadoras. Busco sempre alinhar aprendizado prático com uma visão estratégica voltada para resultados.
 
 
 
