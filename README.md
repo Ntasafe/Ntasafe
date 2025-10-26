@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Júnior`**
 
- 21 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou em constante desenvolvimento na área de tecnologia, com foco em aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e inovadoras. Busco sempre alinhar aprendizado prático com uma visão estratégica voltada para resultados.
+ 21 anos e Estudante de Análise e Desenvolvimento de Sistemas, focado em construir uma carreira como Analista de Dados. Atualmente aprimorando habilidades em Power BI, Python e SQL, desenvolvendo projetos que transformam dados em insights estratégicos. Busco sempre aprender, evoluir e aplicar soluções que gerem valor real através da análise de dados.
 
 
 
