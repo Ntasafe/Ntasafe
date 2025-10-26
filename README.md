@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Júnior`**
 
- 21 anos e Estudante de Análise e Desenvolvimento de Sistemas, focado em construir uma carreira como Analista de Dados. Atualmente aprimorando habilidades em Power BI, Python e SQL, desenvolvendo projetos que transformam dados em insights estratégicos. Busco sempre aprender, evoluir e aplicar soluções que gerem valor real através da análise de dados.
-
+ 21 anos e Estudante de Análise e Desenvolvimento de Sistemas, focado em construir uma carreira como Analista de Dados. Atualmente aprimorando habilidades em Power BI, Python e SQL, desenvolvendo projetos que transformam dados em insights estratégicos.
 
 
 ---
